@@ -1,6 +1,6 @@
 # Classifying Amusement Park Reviews
 
-This repository contains a single notebook, `notebook.ipynb`, which analyzes the ability of three machine learning algoithms —- Multinomial Naive Bayes (MNB), Logistic Regression (LR), and Support Vector Machine (SVM) —- to determine whether customer reviews of the Disneyland amusement park in California are positive or negative. 
+This repository contains a single notebook, `notebook.ipynb`, which analyzes the ability of three machine learning algoithms — Multinomial Naive Bayes (MNB), Logistic Regression (LR), and Support Vector Machine (SVM) — to determine whether customer reviews of the Disneyland amusement park in California are positive or negative. 
 
 # Main Packages Used
 
